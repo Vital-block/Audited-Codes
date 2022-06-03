@@ -6,6 +6,7 @@ This is the unique official github of Vital Block Audit, please check our github
 
 • Smart Contract Free Check on Telegram Group
 • Smart Contract Premium Auditing
+• KYC
 • NFT Smart Contract Premium Auditing 
 
 💡How to request an audit 🔍?
