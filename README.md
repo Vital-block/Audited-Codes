@@ -2,7 +2,8 @@
 
 This is the unique official github of Vital Block Audit, please check our github on our official website: https://www.vitalblock.xyz/
 
-💡Vital Block Provides following services 🎯 :
+💡Vital Block Provides following services 🎯
+
 • Smart Contract Free Check on Telegram Group
 • Smart Contract Premium Auditing
 • NFT Smart Contract Premium Auditing 
