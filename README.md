@@ -21,5 +21,5 @@ Method 2:
 Official Links link:
 • Website: https://www.Vitalblock.xyz/
 • Telegram: https://t.me/vital_block
-• Twitter: https://twitter.com/Vitalblock1
+• Twitter: https://twitter.com/Vital_blockA
 • Instagram: https://Instagram.com/Vital_block
