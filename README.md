@@ -1,6 +1,6 @@
 💎💎💎 Hello, Welcome To Vital Block-Audit 💎💎💎  
 
-This is the unique official github of Vital Block Audit, please check our github on our official website: https://www.vitalblock.xyz/
+This is the unique official github of Vital Block Audit, please check our github on our official website: https://www.vitalblock.org/
 
 💡Vital Block Provides following services🎯
 
@@ -16,10 +16,10 @@ You can get a quote for an audit dm @Vital_block Audit on telegram or simply ask
 
 Method 2:
 
-💡You can fill the form in our website https://www.vitalblock.xyz/
+💡You can fill the form in our website https://www.vitalblock.org/
 
 Official Links link:
-• Website: https://www.Vitalblock.xyz/
+• Website: https://www.Vitalblock.org/
 • Telegram: https://t.me/vital_block
 • Twitter: https://twitter.com/Vital_blockA
 • Instagram: https://Instagram.com/Vital_block
