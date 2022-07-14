@@ -16,7 +16,7 @@ You can get a quote for an audit DM @ t.me/Vitalblock_CMO on telegram or simply 
 
 Method 2:
 
-💡You can fill the form in our website https://www.vitalblock.org/
+💡 Visit our website https://www.vitalblock.org/
 
 Official Links link:
 • Website: https://www.Vitalblock.org/
